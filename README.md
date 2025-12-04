@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1>BIENVENID@</h1>
+<br>
 
-<!--
-**nimmeda/nimmeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Sobre mí</h2>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 > Proyectos Actuales </h2>
+
+<br>
+<h2 > Proyectos Terminados </h2>
+<p>
+  <a href="https://github.com/nimmeda/PerlinNoise_Python">
+    Generador de perlyn noise
+  </a>
+</p>
+<br>
+<h2 >Conocimiento </h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,godot,html,css,mysql,sqlite,git,github,docker,postman,eclipse,vscode,bash,ubuntu,windows,ai,ps,jenkins" />
+  </a>
+</p>
+
+<br>
+
