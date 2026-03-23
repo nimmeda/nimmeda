@@ -113,10 +113,13 @@ Intenta imitar el comportamiento que tiene en godot.
 <br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nimmeda.nimmeda)
 
-¿Que escucho?<br>
-<a href="https://nimmeda.pythonanywhere.com/link">
-  <img src="https://nimmeda.pythonanywhere.com" alt="Current Spotify Song" />
-</a>
+¿Que escucho?<br><br>
+<div align="center">
+    <a href="https://nimmeda.pythonanywhere.com/link">
+      <img src="https://nimmeda.pythonanywhere.com" alt="Current Spotify Song" />
+    </a>
+</div>
+
 
 </div>
 
