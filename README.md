@@ -118,13 +118,16 @@ Intenta imitar el comportamiento que tiene en godot.
 
 [![GitHub](https://img.shields.io/badge/GitHub-nimmeda-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nimmeda)
 <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jorge_Mediavilla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-mediavilla-aller-a2b199277/)
+<br>
 [![Email](https://img.shields.io/badge/Email-jmediavilla86@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmediavilla86@gmail.com)
 <br>
-<br>
+--
 [![Discord](https://img.shields.io/badge/Discord-nim.meda-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/nim.meda)
 <br>
 [![Twitter](https://img.shields.io/badge/@nim.meda-181717?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/nim_meda)
 <br>
+---
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nimmeda.nimmeda)
 
 ### ¿Que escucho?
