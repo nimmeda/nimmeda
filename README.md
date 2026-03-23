@@ -72,16 +72,15 @@ print(yo.saludar())
 
 ## Proyectos destacados
 
-### [Generador de Perlin Noise python](https://github.com/nimmeda/PerlinNoise_Python)
-> _Generación procedural de texturas usando Perlin Noise en Python_
+### [Generador de Perlin Noise](https://github.com/nimmeda/PerlinNoise_Python)
+> _Generación procedural de texturas usando Perlin Noise
 
-```
-[ Python ]
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 Implementación de un generador de ruido de Perlin desde cero en Python.  
 Produce imágenes procedurales que pueden usarse para terrenos, texturas y efectos visuales.  
-Intenta imitar el comportamiento que tiene en godot.
+Intenta imitar el comportamiento que tiene en Godot4.
 
 ---
 
