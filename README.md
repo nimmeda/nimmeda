@@ -25,6 +25,7 @@ class Nimmeda:
         self.rol        = "Junior Developer"
         self.lenguages  = ["Python", "Java", "GDScript"]
         self.intereses  = ["game art/design", "backend", "frontend"]
+        self.aprendiendo  = ["GDScript", "TypeScript/JavaScript", "C++"]
         self.nota       = "este perfil es solo la punta del iceberg"
         self.disponible = True  # abierto a oportunidades 
 
@@ -99,6 +100,16 @@ Intenta imitar el comportamiento que tiene en godot.
 
 ---
 
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nimmeda/nimmeda/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nimmeda/nimmeda/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nimmeda/nimmeda/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
 ## Redes Sociales
 
 <div align="left">
@@ -108,6 +119,9 @@ Intenta imitar el comportamiento que tiene en godot.
 [![GitHub](https://img.shields.io/badge/GitHub-nimmeda-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nimmeda)
 <br>
 [![Email](https://img.shields.io/badge/Email-jmediavilla86@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmediavilla86@gmail.com)
+<br>
+<br>
+[![Discord](https://img.shields.io/badge/Discord-nim.meda-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/nim.meda)
 <br>
 [![Twitter](https://img.shields.io/badge/@nim.meda-181717?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/nim_meda)
 <br>
