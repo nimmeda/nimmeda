@@ -99,7 +99,7 @@ Intenta imitar el comportamiento que tiene en godot.
 
 ---
 
-## Contacto
+## Redes Sociales
 
 <div align="left">
 
@@ -112,6 +112,11 @@ Intenta imitar el comportamiento que tiene en godot.
 [![Twitter](https://img.shields.io/badge/@nim.meda-181717?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/nim_meda)
 <br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nimmeda.nimmeda)
+
+¿Que escucho?<br>
+<a href="https://nimmeda.pythonanywhere.com/link">
+  <img src="https://nimmeda.pythonanywhere.com" alt="Current Spotify Song" />
+</a>
 
 </div>
 
