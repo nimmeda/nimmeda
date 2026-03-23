@@ -113,8 +113,9 @@ Intenta imitar el comportamiento que tiene en godot.
 <br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nimmeda.nimmeda)
 
-¿Que escucho?<br><br>
-<div align="center">
+### ¿Que escucho?
+[![Spotify](https://img.shields.io/badge/Spotify-nim.meda-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/0h1es32jp1dvng8bcxdimh7jh)
+<div align="left">
     <a href="https://nimmeda.pythonanywhere.com/link">
       <img src="https://nimmeda.pythonanywhere.com?theme=dark&eq_color=rainbow" alt="Current Spotify Song" />
     </a>
