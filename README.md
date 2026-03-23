@@ -11,7 +11,7 @@
 
 ### `< developer />` · `{ building things }` · `( learning daily )`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B931F7&width=435&lines=Open+to+new+challenges;Junior+developer;Turning+ideas+into+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=B931F7&width=435&lines=Open+to+new+challenges;Junior+developer;Turning+ideas+into+code)](https://git.io/typing-svg)
 
 </div>
 
@@ -90,11 +90,12 @@ Intenta imitar el comportamiento que tiene en godot.
 
 <div align="left">
 
+![GitHub streak Stats](https://streak-stats.demolab.com?user=nimmeda&theme=midnight-purple&hide_border=true)
+
 ![GitHub all stats](https://github-readme-stats.vercel.app/api?username=nimmeda&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 ![GitHub Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nimmeda&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
-![GitHub streak Stats](https://streak-stats.demolab.com?user=nimmeda&theme=midnight-purple&hide_border=true)
 
 </div>
 
@@ -122,15 +123,14 @@ Intenta imitar el comportamiento que tiene en godot.
 <br>
 [![Email](https://img.shields.io/badge/Email-jmediavilla86@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmediavilla86@gmail.com)
 <br>
---
+<br>
 [![Discord](https://img.shields.io/badge/Discord-nim.meda-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/nim.meda)
 <br>
 [![Twitter](https://img.shields.io/badge/@nim.meda-181717?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/nim_meda)
-<br>
----
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nimmeda.nimmeda)
 
-### ¿Que escucho?
+---
+
+## ¿Que escucho?
 [![Spotify](https://img.shields.io/badge/Spotify-nim.meda-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/0h1es32jp1dvng8bcxdimh7jh)
 <div align="left">
     <a href="https://nimmeda.pythonanywhere.com/link">
@@ -138,10 +138,11 @@ Intenta imitar el comportamiento que tiene en godot.
     </a>
 </div>
 
-
 </div>
 
 ---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nimmeda.nimmeda)
 
 
 
