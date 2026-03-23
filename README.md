@@ -116,7 +116,7 @@ Intenta imitar el comportamiento que tiene en godot.
 ¿Que escucho?<br><br>
 <div align="center">
     <a href="https://nimmeda.pythonanywhere.com/link">
-      <img src="https://nimmeda.pythonanywhere.com" alt="Current Spotify Song" />
+      <img src="https://nimmeda.pythonanywhere.com?theme=dark&eq_color=rainbow" alt="Current Spotify Song" />
     </a>
 </div>
 
