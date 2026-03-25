@@ -132,11 +132,11 @@ Intenta imitar el comportamiento que tiene en Godot4.
 ## ¿Que escucho?
 [![Spotify](https://img.shields.io/badge/Spotify-nim.meda-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/0h1es32jp1dvng8bcxdimh7jh)
 
-<div align="center">
+<div align="left">
     <a href="https://nimmeda.pythonanywhere.com/link">
         <img src="https://nimmeda.pythonanywhere.com?theme=dark&eq_color=rainbow" alt="Current Spotify Song" valign="top" />
     </a>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0h1es32jp1dvng8bcxdimh7jh&count=5&unique=true&width=1000" height="160" alt="Recently Played" valign="top" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0h1es32jp1dvng8bcxdimh7jh&count=5&unique=true" height="160" alt="Recently Played" valign="top" />
 </div>
 
 
