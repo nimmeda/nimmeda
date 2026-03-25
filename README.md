@@ -89,8 +89,6 @@ Intenta imitar el comportamiento que tiene en Godot4.
 
 <div align="left">
 
-![GitHub streak Stats](https://streak-stats.demolab.com?user=nimmeda&theme=midnight-purple&hide_border=true)
-
 ![GitHub all stats](https://github-readme-stats.vercel.app/api?username=nimmeda&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 ![GitHub Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nimmeda&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
@@ -116,28 +114,31 @@ Intenta imitar el comportamiento que tiene en Godot4.
 
 ¿Tienes un proyecto en mente? ¿Quieres colaborar? ¡Escríbeme!
 
+### Redes publicas
 [![GitHub](https://img.shields.io/badge/GitHub-nimmeda-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nimmeda)
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jorge_Mediavilla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-mediavilla-aller-a2b199277/)
 <br>
 [![Email](https://img.shields.io/badge/Email-jmediavilla86@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmediavilla86@gmail.com)
-<br>
-<br>
+### Redes personales
 [![Discord](https://img.shields.io/badge/Discord-nim.meda-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/nim.meda)
 <br>
 [![Twitter](https://img.shields.io/badge/@nim.meda-181717?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/nim_meda)
+
+</div>
 
 ---
 
 ## ¿Que escucho?
 [![Spotify](https://img.shields.io/badge/Spotify-nim.meda-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/0h1es32jp1dvng8bcxdimh7jh)
-<div align="left">
+
+<div align="center">
     <a href="https://nimmeda.pythonanywhere.com/link">
-      <img src="https://nimmeda.pythonanywhere.com?theme=dark&eq_color=rainbow" alt="Current Spotify Song" />
+        <img src="https://nimmeda.pythonanywhere.com?theme=dark&eq_color=rainbow" alt="Current Spotify Song" valign="top" />
     </a>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0h1es32jp1dvng8bcxdimh7jh&count=5&unique=true&width=1000" height="160" alt="Recently Played" valign="top" />
 </div>
 
-</div>
 
 ---
 
