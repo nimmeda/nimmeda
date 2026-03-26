@@ -86,7 +86,7 @@ Intenta imitar el comportamiento que tiene en Godot4.
 
 ---
 
-##  En mi radar para 2026
+##  Radar
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
