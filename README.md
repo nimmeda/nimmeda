@@ -25,7 +25,7 @@ class Nimmeda:
         self.rol        = "Junior Developer"
         self.lenguages  = ["Python", "Java", "GDScript"]
         self.intereses  = ["game art/design", "backend", "frontend"]
-        self.aprendiendo  = ["GDScript", "TypeScript/JavaScript", "C++"]
+        self.aprendiendo  = ["Dart", "TypeScript/JavaScript", "C++"]
         self.nota       = "este perfil es solo la punta del iceberg"
         self.disponible = True  # abierto a oportunidades 
 
@@ -87,6 +87,8 @@ Intenta imitar el comportamiento que tiene en Godot4.
 ---
 
 ##  Radar
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
